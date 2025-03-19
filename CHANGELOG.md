@@ -1,4 +1,4 @@
-## 1.0.0
+## 1.0.1
 - Initial release of emoji_loading.
 - Added support for bounce, rotate, pulse, and wave animations.
 
