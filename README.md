@@ -17,6 +17,5 @@ Contributions, issues, and feature requests are welcome!
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
 ❤️ Thanks
 Thank you for using emoji_loading! 😊
