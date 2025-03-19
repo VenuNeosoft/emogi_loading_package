@@ -1,5 +1,6 @@
 name: emoji_loading
-description: "A new Flutter package project."
+description: "A fun Flutter package that adds emoji-based or text-based loading animations like bounce, wave, pulse, and rotate to your app."
+
 version: 1.0.0
 homepage: https://github.com/VenuNeosoft/emogi_loading_package
 repository: https://github.com/your_username/emoji_loading
