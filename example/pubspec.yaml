@@ -1,0 +1,19 @@
+name: emoji_loading_example
+description: Demonstrates the usage of emoji_loading package.
+publish_to: "none" # Prevent accidental publishing of the example app.
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  emoji_loading:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
